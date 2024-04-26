@@ -1,6 +1,5 @@
 # ⏰ Relógio Digital
-
-
+https://github.com/skypse/Projeto-17-JavaScript-Relogio-Digital/assets/97822775/f96eef28-242f-4e34-bcd5-93dd5847f6b3
 
 Um simples relógio digital feito com HTML, CSS e JavaScript. Este projeto consiste em um relógio digital que exibe o horário atual. Ele foi desenvolvido usando HTML para estruturação, CSS para estilização e JavaScript para funcionalidades dinâmicas.
 
